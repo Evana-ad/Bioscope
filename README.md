@@ -1,4 +1,5 @@
 # 🧬 BioScope – Genomic Data Visualizer
+This project was developed as a team of four students as part of an academic project.
 
 BioScope is an AI-inspired Streamlit dashboard for exploring genomic and biological datasets.
 It allows scientists and students to visualize gene expression patterns, mutation rates, and other biological features interactively.
@@ -13,3 +14,4 @@ It allows scientists and students to visualize gene expression patterns, mutatio
 1. Install dependencies:
    ```bash
    pip install streamlit pandas plotly numpy
+
